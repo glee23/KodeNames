@@ -1,6 +1,10 @@
 a:link {color: black;}      /* unvisited link */
 a:visited {color: black}   /* visited link */
-.word:hover {color: black; background: lightgrey;}     /* mouse over link */
+
+.word a {
+	text-decoration: none;
+}
+.word:hover {color: black; background: lightgrey; text-decoration: underline;}     /* mouse over link */
 a:active {color: black;}    /* selected link */
 
 html {
@@ -38,7 +42,7 @@ button, input, span#first {
 	font-weight : bold;
 	width : 18%;
 	height : 90%;
-	margin-left: 1px;
+	margin-left: 1%;
 	box-shadow: 0 1px 8px rgba(0,0,0,0.2);
 	display : inline-block;
 	line-height : 99%;
