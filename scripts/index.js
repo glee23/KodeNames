@@ -13,7 +13,7 @@ var sessionData = [];
 var customData = [];
 
 var COLOR_RED = "#FF5D40";
-var COLOR_YELLOW = "#e6e69e";
+var COLOR_YELLOW = "#ffffc7";
 var COLOR_BLUE = "#179ee0";
 var COLOR_BLACK = "#808080";
 var COLOR_GREEN = "#009000";
