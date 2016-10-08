@@ -116,23 +116,23 @@ button, input, span#first {
 }
 
 .redStarts{
-	border-left: #ff0000;
+	border-left: #FF5D40;
 	border-left-style: solid;
 }
 .blueStarts{
-	border-left: #00eeee;
+	border-left: #179ee0;
 	border-left-style: solid;
 }
 
 #redScore{
-	color: #ff0000;
+	color: #FF5D40;
 	font-size: 23px;
 	flex-grow: 1;
 	text-align: center;
 }
 #blueScore{
 	text-align: center;
-	color: #00eeee;
+	color: #179ee0;
 	font-size: 23px;
 	flex-grow: 1;
 }
